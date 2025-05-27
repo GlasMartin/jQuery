@@ -30,23 +30,20 @@ Näyttökuva
 
 
 ## Teknologiat
-Käytin HTML, CSS, JS
+Käytin HTML, CSS, JS, jQuery, BootStrap
 
 ## Käyttö
 Joko lataat kaikki tiedostot kansiona, tai käytät linkkiäni joka on hostattu netlifyssä (linkki tässä dokumentissa)
 
 ## Status
-[DOM projekti] valmis versiona 1.0
+[jQuery projekti] valmis versiona 1.0
 
 ## Lähteet
 
-- [ChatGPT](johndoe.com)
-- [GreatStack]https://www.youtube.com/watch?v=G0jO8kUrg-I&pp=ygUUdG9kbyBsaXN0IGphdmFzY3JpcHQ%3D
+- [BootStrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+- [w3School](https://www.w3schools.com/jquery/default.asp)
 
-ChatGPT oli apuna piilota/näytä napin teossa
-Listaan lisäys sekä poisto youtube videon avulla.
+Jos jokin ei toiminut, kysyin chatGPT:ltä sparri apua mikäli en itse kyennyt sitä ratkaisemaan. 
 
 ## Lisenssi
-
-
-Tätä en ymmäränyt.?
+© 2025 GlasMartin
