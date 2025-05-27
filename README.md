@@ -2,7 +2,7 @@
 jQuery projekti - Martin Glas
 
 ## Demo linkki:
-Tulee
+[Demo](https://capable-cheesecake-afefb0.netlify.app/)
 
 ## Miten työpanos jaettiin
 Tein yksin
