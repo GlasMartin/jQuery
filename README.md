@@ -24,7 +24,7 @@ Tein yksin
 
 ## Näyttökuvat
 Näyttökuva 
-![image](https://github.com/user-attachments/assets/472124bd-6670-4898-bf2b-07fef1278363)
+![image](https://github.com/GlasMartin/jQuery/blob/main/demokuva.png)
 
 
 
