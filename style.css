@@ -1,0 +1,90 @@
+
+
+body {
+    background-color: black;
+    color: rgb(255, 196, 0);
+    font-family: sans-serif;
+    margin: 20px;
+    padding: 10px;
+}
+
+.taulukko {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(225px, 1fr));
+    gap: 30px;
+    margin-top: 20px;
+}
+
+/*.taulukko div {
+    background-color: #2b2b2b;
+    border-radius: 10px;
+    padding: 15px;
+    box-shadow: 0 0 10px rgba(255, 196, 0, 0.2);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    max-width: 400px;
+    margin: 0 auto;
+  
+}
+
+/*.taulukko div:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 0 15px rgba(255, 196, 0, 0.4);
+}*/ /*Otin korteista pois oman efektinsä, sillä nyt bootsrap korteissa on oma nappinsa */
+
+/*.taulukko img {
+    width: 100%;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+.taulukko strong {
+    font-size: 1.2em;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.taulukko hr {
+    border: none;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    margin: 10px 0;
+}
+
+/*.linkit {
+    text-decoration: none;
+    color: inherit;
+}*/
+/*Bootstrap tyylittelyä*/
+#valikko {
+    background-color: #2b2b2b;
+    color: rgb(255, 196, 0);
+    border: 1px solid rgba(255, 196, 0, 0.4);
+}
+/*Bootstrap tyylittelyä*/
+.btn-primary {
+    background-color: rgb(255, 196, 0);
+    border: none;
+    color: black;
+    font-weight: bold;
+}
+/*Bootstrap tyylittelyä*/
+.btn-primary:hover {
+    background-color: rgb(255, 170, 0);
+    
+}
+/*Bootstrap tyylittelyä*/
+.card {
+    width: 100%;
+    max-width: 300px;
+    background-color: #2b2b2b;
+    color: rgb(255, 196, 0);
+    border: none;
+    box-shadow: 0 0 10px rgba(255, 196, 0, 0.2);
+    margin: 0 auto;
+    
+}
+/*Bootstrap tyylittelyä*/
+.btn-warning:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 0 15px rgba(255, 196, 0, 0.4);
+}
+
